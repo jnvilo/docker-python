@@ -1,2 +1,4 @@
-# docker-python39
-RockyLinux Based python39 
+# docker-python3.10
+
+This is version 3.10
+ 
