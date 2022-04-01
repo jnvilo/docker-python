@@ -1,6 +1,6 @@
 REGISTRY_URL=jnvilo
-IMAGE_NAME=python310
-TAG=3.10
+IMAGE_NAME=python
+TAG=3.11
 
 .PHONY: build  all build_image pull tag clean 
 
